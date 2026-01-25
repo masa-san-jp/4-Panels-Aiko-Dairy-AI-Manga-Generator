@@ -1,0 +1,5 @@
+{
+  "name": "MangaStudio AI",
+  "description": "A professional 4-panel comic generator and editor powered by Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
