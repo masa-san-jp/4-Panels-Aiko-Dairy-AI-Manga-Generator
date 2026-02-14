@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import { Header } from './components/Header';
-import { Button } from './components/Button';
-import { FileUpload } from './components/FileUpload';
+// import { Header } from './components/Header';
+// import { Button } from './components/Button';
+// import { FileUpload } from './components/FileUpload';
 import { ApiKeyModal } from './components/ApiKeyModal';
 import { GeneratedImage, AppMode } from './types';
 import { generateComic, editImage } from './services/geminiService';
